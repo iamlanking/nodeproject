@@ -18,8 +18,8 @@ const OSS = require('ali-oss')
 // 配置
 const client = new OSS({
   region: "oss-cn-beijing", // 地域
-  accessKeyId: "LTAI5tJ4EzdnWPriAEm3xhbT", // keyid
-  accessKeySecret: "0DPgqWHfhw1rMnaJQY24N2LX22tifh", // 秘钥
+  accessKeyId: "xxx", // keyid
+  accessKeySecret: "xxx", // 秘钥
   bucket: "waimaihoutai"
 })
 
